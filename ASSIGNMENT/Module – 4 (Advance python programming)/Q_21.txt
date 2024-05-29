@@ -1,0 +1,10 @@
+OOP Concepts and Multiple Inheritance in Java
+OOP Concepts:
+
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+Multiple Inheritance in Java:
+
+Java does not support multiple inheritance directly to avoid complexity and simplify the design. However, it can be achieved using interfaces.

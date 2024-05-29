@@ -1,0 +1,2 @@
+Can one block of except statements handle multiple exceptions?
+Yes, multiple exceptions can be handled using a single except block by specifying the exceptions as a tuple.

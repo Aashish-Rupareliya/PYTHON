@@ -1,0 +1,4 @@
+Exception Handling in Python
+Exception handling in Python involves using try, except, else, and finally blocks to handle and manage errors that occur during runtime.
+
+Error: An error is an issue in a program that prevents it from executing normally. Python has many built-in exceptions such as ZeroDivisionError, TypeError, ValueError, etc.

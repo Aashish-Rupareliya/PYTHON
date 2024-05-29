@@ -1,0 +1,13 @@
+try:
+    Code that might raise an exception
+except ValueError:
+    Handle ValueError
+except TypeError:
+    Handle TypeError
+
+Some Built-in Exception Classes
+ValueError
+TypeError
+ZeroDivisionError
+IndexError
+KeyError

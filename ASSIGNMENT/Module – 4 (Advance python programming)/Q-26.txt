@@ -1,0 +1,3 @@
+Instantiation in OOP Terminology
+Instantiation refers to the process of creating a specific instance of a class. When a class is defined, no memory is allocated until an object of that class is created. Instantiating a class means creating an object that is a particular realization of the class, with specific attribute values and methods that can be called.
+

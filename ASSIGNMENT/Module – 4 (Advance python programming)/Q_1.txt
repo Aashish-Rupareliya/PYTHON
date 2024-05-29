@@ -1,0 +1,8 @@
+File Functions in Python
+In Python, file functions are used to create, read, write, and manipulate files. The built-in open() function is used to open a file. The mode parameter in the open() function specifies what you want to do with the file:
+
+'r' - Read (default)
+'w' - Write (will truncate the file if it exists)
+'a' - Append
+'b' - Binary mode
+'t' - Text mode (default)

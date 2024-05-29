@@ -1,0 +1,2 @@
+What happens when '1' == 1 is executed?
+The expression '1' == 1 evaluates to False because it compares a string with an integer, and they are not considered equal in Python.
